@@ -13,10 +13,10 @@
 
 ## Getting started
 ```bash
-$ git clone https://github.com/mirchenko/react-ssr-boilerplate.git <YOUR_FOLDER_NAME>
+$ git clone https://github.com/varunsingh09/react-ssr-boilerplate.git <YOUR_FOLDER_NAME>
 $ cd <YOUR_FOLDER_NAME>
 $ yarn 
 $ yarn start
 ```
 
-Service available on `localhost:8080`
+Service available on `localhost:8080`# react-ssr-boilerplate
